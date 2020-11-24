@@ -1,7 +1,7 @@
-# CCCP-Armhf-Builds
-**Builds for Cortex Command for Armhf CPUs**
+# CCCP-Unstable-Builds
+**Unstable Builds for Cortex Command**
 
-Whenever I build Cortex Command for Armhf, i will put it here.
+Occasionally, i will put CCCP Builds here.
 
 Source: https://github.com/cortex-command-community/Cortex-Command-Community-Project-Source        
 Data: https://github.com/cortex-command-community/Cortex-Command-Community-Project-Data        
