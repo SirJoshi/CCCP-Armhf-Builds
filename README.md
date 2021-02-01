@@ -7,4 +7,4 @@ Source: https://github.com/cortex-command-community/Cortex-Command-Community-Pro
 Data: https://github.com/cortex-command-community/Cortex-Command-Community-Project-Data        
 
 Join the Cortex Command Discord: https://discord.gg/yuZvazK        
-Message me on Discord: `- joshy -#5253 `       
+Message me on Discord: `- joshy -#1337 `       
